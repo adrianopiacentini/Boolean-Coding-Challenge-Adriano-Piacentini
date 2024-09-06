@@ -1,0 +1,75 @@
+body {
+    background-image: url(background.jpg);
+    background-size:cover;
+}
+
+.container {
+    width:65%;
+    margin:auto;
+}
+
+.box {
+    background: rgba(0,0,0,0.5);
+    padding:10%;
+    border-radius: 30px;
+    margin-top:2%;
+}
+
+.logo {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:20%;
+}
+
+header > h1 {
+
+    text-align:center;
+    color:#00dd00;
+    width:100%
+}
+
+.navigazione {
+    background:#00dd00;
+    padding: 1%;
+    text-align:center;
+}
+
+.contentbox {
+width:50%;
+}
+
+main > div {
+    color:white;
+    margin:2%;
+}
+
+span.titolo {
+    font-size:175%;
+    font-weight: 600;
+}
+
+span.freccia, span.via, span.carica {
+    font-size: 115%;
+}
+
+.batteria {
+    padding: 1%;
+    border-radius:30px;
+    height: 20px;
+}
+
+div._50_ {
+    background: rgb(248,180,84);
+    width:50%;
+}
+
+div._100_ {
+    background:rgb(32,196,28);
+    width: 100%;
+}
+
+div._20_ {
+    background:rgb(192,68,68);
+    width: 20%;
+}
